@@ -1,5 +1,3 @@
-def test_password(x):
-    print(x)
 
 #This is how we learned to concatenate strings in the ITF+ class.
 a = "String 1"
@@ -18,6 +16,3 @@ the = {'John': 'Some random dude', 'Jane': 'AI built npc', 'Jim': 'He isnt reall
 
 for name, t in the.items():
     print(f"{name} is, {t}")
-
-Password = 'ThisIsThePassword'
-test_password(Password)
